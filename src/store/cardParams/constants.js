@@ -1,0 +1,1 @@
+export const SET_CARD_PARAMS = 'SET_CARD_PARAMS';
